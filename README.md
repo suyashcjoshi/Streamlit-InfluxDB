@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Streamlit Test
 
 A simple Streamlit app template for you to modify!
 
